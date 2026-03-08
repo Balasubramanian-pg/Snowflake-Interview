@@ -1,4 +1,6 @@
 # 1. Snowflake Interview Questions (Set 1)
+<img width="736" height="1104" alt="image" src="https://github.com/user-attachments/assets/9d431486-cc9f-4f77-8238-33200e11379f" />
+
 *181 Technical & Practical Questions (Non-SQL) Across 16 Categories*
 
 ## 1.1 Architecture & Core Concepts
