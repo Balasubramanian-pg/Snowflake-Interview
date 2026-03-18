@@ -1,4 +1,4 @@
-# Introduction to Data Modeling
+# Introduction To Data Modeling
 
 **Module:** 1 - Fundamentals of Data Modeling
 
