@@ -1,4 +1,4 @@
-# Applying conditional logic in Snowflake
+# Applying Conditional Logic In Snowflake
 
 ## Core Logic
 - 
