@@ -1,4 +1,4 @@
-# Evaluating workout length
+# Evaluating Workout Length
 
 ## Key Concepts
 - 
