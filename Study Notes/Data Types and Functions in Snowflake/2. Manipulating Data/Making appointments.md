@@ -1,4 +1,4 @@
-# Making appointments
+# Making Appointments
 
 ## Key Concepts
 - 
