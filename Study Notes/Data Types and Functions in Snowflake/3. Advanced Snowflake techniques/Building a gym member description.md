@@ -1,4 +1,4 @@
-# Building a gym member description
+# Building A Gym Member Description
 
 ## Key Concepts
 - 
