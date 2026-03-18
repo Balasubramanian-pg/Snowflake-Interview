@@ -1,4 +1,4 @@
-# Wrapping up!
+# Wrapping Up
 
 ## Core Logic
 - 
