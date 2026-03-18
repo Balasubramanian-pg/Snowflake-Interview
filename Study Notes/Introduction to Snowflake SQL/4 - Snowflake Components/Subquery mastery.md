@@ -1,4 +1,4 @@
-# Subquery mastery
+# Subquery Mastery
 
 **Module:** 4 - Snowflake Components
 
