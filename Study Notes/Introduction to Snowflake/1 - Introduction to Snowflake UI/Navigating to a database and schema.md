@@ -1,4 +1,4 @@
-# Navigating to a database and schema
+# Navigating To A Database And Schema
 
 **Module:** 1 - Introduction to Snowflake UI
 
