@@ -1,4 +1,4 @@
-# Extracting and responding to a review
+# Extracting And Responding To A Review
 
 ## Summary
 
