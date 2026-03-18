@@ -1,4 +1,4 @@
-# Engaging vehicle owners with metrics
+# Engaging Vehicle Owners With Metrics
 
 ## Summary
 
