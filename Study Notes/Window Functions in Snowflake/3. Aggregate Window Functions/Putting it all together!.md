@@ -1,4 +1,4 @@
-# Putting it all together!
+# Putting It All Together!
 
 ## Summary
 
