@@ -1,4 +1,4 @@
-# Classifying data modeling techniques
+# Classifying Data Modeling Techniques
 
 **Module:** 3 - Data Modeling Techniques for Data Warehouse
 
