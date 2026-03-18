@@ -1,4 +1,4 @@
-# Building subqueries
+# Building Subqueries
 
 ## Core Logic
 - 
