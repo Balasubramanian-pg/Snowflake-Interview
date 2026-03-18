@@ -1,4 +1,4 @@
-# Loading data from AWS GCP and Azure
+# Loading Data From Aws Gcp And Azure
 
 **Module:** 2 - Snowsight in Action Managing Data and Access
 
