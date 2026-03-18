@@ -1,4 +1,4 @@
-# Entity–relationship model
+# Entity–Relationship Model
 
 **Module:** 3 - Data Modeling Techniques for Data Warehouse
 
