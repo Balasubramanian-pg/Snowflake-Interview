@@ -1,4 +1,4 @@
-# Aggregate window functions
+# Aggregate Window Functions
 
 ## Summary
 
