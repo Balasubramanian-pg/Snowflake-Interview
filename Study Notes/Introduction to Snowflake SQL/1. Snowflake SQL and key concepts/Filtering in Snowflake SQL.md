@@ -1,4 +1,4 @@
-# Filtering in Snowflake SQL
+# Filtering In Snowflake Sql
 
 ## Summary
 
