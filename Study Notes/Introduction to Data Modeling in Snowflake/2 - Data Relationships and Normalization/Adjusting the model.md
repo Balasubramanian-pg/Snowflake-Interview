@@ -1,4 +1,4 @@
-# Adjusting the model
+# ADjusting The Model
 
 **Module:** 2 - Data Relationships and Normalization
 
