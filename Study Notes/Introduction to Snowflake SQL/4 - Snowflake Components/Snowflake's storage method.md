@@ -1,4 +1,4 @@
-# Snowflake's storage method
+# Snowflake'S Storage Method
 
 **Module:** 4 - Snowflake Components
 
