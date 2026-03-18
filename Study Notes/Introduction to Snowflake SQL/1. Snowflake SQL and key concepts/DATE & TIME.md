@@ -1,4 +1,4 @@
-# DATE & TIME
+# Date & Time
 
 ## Summary
 
