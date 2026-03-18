@@ -1,4 +1,4 @@
-# Evaluating charging duration
+# Evaluating Charging Duration
 
 ## Summary
 
