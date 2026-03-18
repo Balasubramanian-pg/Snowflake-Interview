@@ -1,4 +1,4 @@
-# Finding the most popular artists
+# Finding The Most Popular Artists
 
 ## Core Logic
 - 
