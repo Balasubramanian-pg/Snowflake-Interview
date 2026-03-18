@@ -1,4 +1,4 @@
-# Digging into charging costs
+# Digging Into Charging Costs
 
 ## Summary
 
