@@ -1,4 +1,4 @@
-# Executing a query and viewing the results
+# Executing A Query And Viewing The Results
 
 **Module:** 1 - Introduction to Snowflake UI
 
