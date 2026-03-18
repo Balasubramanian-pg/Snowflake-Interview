@@ -1,4 +1,4 @@
-# Setting a minimum charging cost
+# Setting A Minimum Charging Cost
 
 ## Summary
 
