@@ -1,4 +1,4 @@
-# Working out in the big city
+# Working Out In The Big City
 
 ## Key Concepts
 - 
