@@ -1,4 +1,4 @@
-# Introduction to Snowflake Cortex and Notebooks
+# Introduction To Snowflake Cortex And Notebooks
 
 ## Summary
 
