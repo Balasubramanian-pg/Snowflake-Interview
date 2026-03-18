@@ -1,4 +1,4 @@
-# Managing role access
+# Managing Role Access
 
 **Module:** 2 - Snowsight in Action Managing Data and Access
 
