@@ -1,4 +1,4 @@
-# What burns more calories?
+# What Burns More CAlories
 
 ## Key Concepts
 - 
