@@ -1,4 +1,4 @@
-# Building the physical data model
+# Building The Physical Data Model
 
 **Module:** 1 - Fundamentals of Data Modeling
 
