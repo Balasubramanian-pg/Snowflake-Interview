@@ -1,4 +1,4 @@
-# Numeric data types
+# Numeric Data Types
 
 ## Key Concepts
 - 
