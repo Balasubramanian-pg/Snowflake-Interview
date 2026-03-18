@@ -1,4 +1,4 @@
-# Viewing query Details
+# Viewing Query Details
 
 **Module:** 1 - Introduction to Snowflake UI
 
