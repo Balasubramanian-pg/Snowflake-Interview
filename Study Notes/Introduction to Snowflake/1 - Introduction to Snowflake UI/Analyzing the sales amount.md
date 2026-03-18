@@ -1,4 +1,4 @@
-# Analyzing the sales amount
+# Analyzing The Sales Amount
 
 **Module:** 1 - Introduction to Snowflake UI
 
