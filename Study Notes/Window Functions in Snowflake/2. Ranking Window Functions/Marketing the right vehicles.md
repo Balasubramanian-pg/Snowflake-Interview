@@ -1,4 +1,4 @@
-# Marketing the right vehicles
+# Marketing The Right Vehicles
 
 ## Summary
 
