@@ -1,4 +1,4 @@
-# Albums driving sales
+# Albums Driving Sales
 
 ## Core Logic
 - 
