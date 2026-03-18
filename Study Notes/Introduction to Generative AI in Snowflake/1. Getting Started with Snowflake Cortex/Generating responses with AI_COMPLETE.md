@@ -1,4 +1,4 @@
-# Generating responses with AI_COMPLETE
+# Generating Responses With Ai Complete
 
 ## Summary
 
