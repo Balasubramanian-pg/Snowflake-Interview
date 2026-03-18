@@ -1,4 +1,4 @@
-# How many protected files?
+# How Many Protected Files
 
 ## Core Logic
 - 
