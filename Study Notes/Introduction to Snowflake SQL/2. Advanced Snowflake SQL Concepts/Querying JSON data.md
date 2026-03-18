@@ -1,4 +1,4 @@
-# Querying JSON data
+# Querying Json Data
 
 ## Summary
 
