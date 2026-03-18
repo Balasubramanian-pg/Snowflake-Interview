@@ -1,4 +1,4 @@
-# Comparing senior workouts
+# Comparing Senior Workouts
 
 ## Key Concepts
 - 
