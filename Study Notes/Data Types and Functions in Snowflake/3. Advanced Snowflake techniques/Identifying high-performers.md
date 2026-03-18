@@ -1,4 +1,4 @@
-# Identifying high-performers
+# IDentifying High Performers
 
 ## Key Concepts
 - 
