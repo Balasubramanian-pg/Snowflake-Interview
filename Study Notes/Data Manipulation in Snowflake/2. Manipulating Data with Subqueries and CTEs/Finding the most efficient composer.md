@@ -1,4 +1,4 @@
-# Finding the most efficient composer
+# Finding The Most Efficient Composer
 
 ## Core Logic
 - 
