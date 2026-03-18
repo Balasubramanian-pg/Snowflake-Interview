@@ -1,4 +1,4 @@
-# Summarizing and classifying
+# Summarizing And Classifying
 
 ## Summary
 
