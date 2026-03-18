@@ -1,4 +1,4 @@
-# Breaking down a timestamp
+# Breaking Down A Timestamp
 
 ## Key Concepts
 - 
