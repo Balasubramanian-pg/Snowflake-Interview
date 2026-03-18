@@ -1,4 +1,4 @@
-# Monitoring Query and Copy History
+# Monitoring Query And Copy History
 
 **Module:** 1 - Introduction to Snowflake UI
 
