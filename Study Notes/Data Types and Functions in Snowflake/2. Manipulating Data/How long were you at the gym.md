@@ -1,4 +1,4 @@
-# How long were you at the gym?
+# How Long Were You At The Gym
 
 ## Key Concepts
 - 
