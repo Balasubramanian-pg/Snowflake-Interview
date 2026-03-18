@@ -1,4 +1,4 @@
-# Inferring purchase quantity
+# Inferring Purchase Quantity
 
 ## Core Logic
 - 
