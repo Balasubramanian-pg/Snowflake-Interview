@@ -1,4 +1,4 @@
-# Order of execution
+# Order Of Execution
 
 **Module:** 4 - Snowflake Components
 
