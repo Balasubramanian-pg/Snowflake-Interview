@@ -1,4 +1,4 @@
-# Using Python variable substitution
+# Using Python Variable Substitution
 
 ## Summary
 
