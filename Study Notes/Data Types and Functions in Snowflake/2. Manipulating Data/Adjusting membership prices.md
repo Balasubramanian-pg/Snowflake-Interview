@@ -1,4 +1,4 @@
-# Adjusting membership prices
+# ADjusting Membership Prices
 
 ## Key Concepts
 - 
