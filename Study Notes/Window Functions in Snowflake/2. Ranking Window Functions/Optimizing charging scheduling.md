@@ -1,4 +1,4 @@
-# Optimizing charging scheduling
+# Optimizing Charging Scheduling
 
 ## Summary
 
