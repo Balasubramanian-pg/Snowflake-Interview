@@ -1,4 +1,4 @@
-# Data manipulation in Snowflake
+# Data Manipulation In Snowflake
 
 ## Core Logic
 - 
