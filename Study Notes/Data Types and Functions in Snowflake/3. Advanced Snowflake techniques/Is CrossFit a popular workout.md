@@ -1,4 +1,4 @@
-# Is CrossFit a popular workout?
+# Is Crossfit A Popular Workout
 
 ## Key Concepts
 - 
