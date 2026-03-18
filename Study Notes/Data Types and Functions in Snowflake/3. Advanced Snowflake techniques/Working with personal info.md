@@ -1,4 +1,4 @@
-# Working with personal info
+# Working With Personal Info
 
 ## Key Concepts
 - 
