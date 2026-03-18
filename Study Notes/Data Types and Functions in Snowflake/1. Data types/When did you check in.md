@@ -1,4 +1,4 @@
-# When did you check in?
+# When Did You Check In
 
 ## Key Concepts
 - 
