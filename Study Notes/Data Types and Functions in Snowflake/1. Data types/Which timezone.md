@@ -1,4 +1,4 @@
-# Which timezone?
+# Which Timezone
 
 ## Key Concepts
 - 
