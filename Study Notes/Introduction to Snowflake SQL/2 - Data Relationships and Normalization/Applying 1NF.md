@@ -1,4 +1,4 @@
-# Applying 1NF
+# Applying 1Nf
 
 **Module:** 2 - Data Relationships and Normalization
 
