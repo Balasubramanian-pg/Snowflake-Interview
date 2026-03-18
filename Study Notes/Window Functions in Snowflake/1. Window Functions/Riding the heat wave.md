@@ -1,4 +1,4 @@
-# Riding the heat wave
+# Riding The Heat Wave
 
 ## Summary
 
