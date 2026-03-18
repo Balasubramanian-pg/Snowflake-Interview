@@ -1,4 +1,4 @@
-# The world of JOINS
+# The World Of Joins
 
 ## Summary
 
